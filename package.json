@@ -4,5 +4,13 @@
   "repository": "https://github.com/gex/gatsby-component-shadowing-example.git",
   "author": "Gergo Szonyi",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.23.22",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
