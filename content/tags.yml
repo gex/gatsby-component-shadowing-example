@@ -1,0 +1,4 @@
+- name: Uncategorized
+  color: '#000'
+  icon: ./assets/nehalist-gatsby.png
+  featured: false
